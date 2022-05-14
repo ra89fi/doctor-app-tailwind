@@ -15,7 +15,7 @@ const infoData = [
         img: marker,
         title: 'Our Locations',
         desc: 'This is info card description',
-        bgClass: 'bg-accent',
+        bgClass: 'bg-gradient-to-r from-secondary to-primary',
     },
     {
         img: phone,
